@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="244" viewBox="0 0 400 244" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">Energy flexibility</title><desc id="desc">Demand response, flexible loads, and smarter energy scheduling.</desc>
+<rect x="1" y="1" width="398" height="242" rx="18" fill="#10202c" stroke="#304754" stroke-width="2"/>
+<path d="M26 1h78" stroke="#7ddbe4" stroke-width="2"/>
+<g transform="translate(25 25)" stroke="#7ddbe4" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M7 18h47M7 45h47M7 32h47" opacity=".4"/><path d="M7 38h10V23h11v20h12V17h14"/><path d="m45 9 9 8-9 8M16 35l-9 8 9 8"/></g>
+<text x="349" y="56" fill="#a0b6c2" font-family="Consolas, monospace" font-size="17">02</text>
+<text x="27" y="126" fill="#edf7fb" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="26" font-weight="600" letter-spacing="-.5">Energy flexibility</text>
+<text x="27" y="168" fill="#b7cbd5" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="19">Demand response, flexible loads,</text>
+<text x="27" y="197" fill="#b7cbd5" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="19">and smarter energy scheduling.</text>
+</svg>

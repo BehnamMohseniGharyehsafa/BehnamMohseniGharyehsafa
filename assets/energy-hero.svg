@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="800" viewBox="0 0 1280 800" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Behnam Mohseni — smarter energy, more flexible grids</title>
+  <desc id="desc">A custom energy systems illustration: an electricity pylon, a solar home, an electric vehicle and a predictive controller connected by animated power and control paths. Energy management, energy flexibility and power grids.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="800" gradientUnits="userSpaceOnUse"><stop stop-color="#0c1828"/><stop offset=".55" stop-color="#0b1722"/><stop offset="1" stop-color="#0b252b"/></linearGradient>
+    <linearGradient id="mint" x1="56" y1="0" x2="880" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#b6f6dc"/><stop offset="1" stop-color="#56d9d0"/></linearGradient>
+    <linearGradient id="roof" x1="540" y1="389" x2="714" y2="500" gradientUnits="userSpaceOnUse"><stop stop-color="#21545b"/><stop offset="1" stop-color="#143338"/></linearGradient>
+    <linearGradient id="wall" x1="526" y1="480" x2="690" y2="593" gradientUnits="userSpaceOnUse"><stop stop-color="#24414b"/><stop offset="1" stop-color="#112733"/></linearGradient>
+    <linearGradient id="car" x1="899" y1="540" x2="1109" y2="600" gradientUnits="userSpaceOnUse"><stop stop-color="#3b6577"/><stop offset="1" stop-color="#183444"/></linearGradient>
+    <radialGradient id="aura"><stop stop-color="#36d8bd" stop-opacity=".13"/><stop offset="1" stop-color="#36d8bd" stop-opacity="0"/></radialGradient>
+    <pattern id="dots" width="32" height="32" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#8dc2c5" opacity=".13"/></pattern>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="5"/></filter>
+    <style>
+      text { font-family: Segoe UI, Inter, Arial, sans-serif; }
+      .mono { font-family: Consolas, monospace; }
+      .flow { stroke-dasharray: 7 17; animation: flow 5s linear infinite; }
+      .signal { stroke-dasharray: 3 9; animation: flow 8s linear infinite reverse; }
+      .pulse { animation: pulse 3s ease-in-out infinite; }
+      @keyframes flow { to { stroke-dashoffset: -120; } }
+      @keyframes pulse { 0%,100% { opacity:.4; } 50% { opacity:1; } }
+      @media (prefers-reduced-motion: reduce) { .flow,.signal,.pulse { animation:none; } }
+    </style>
+  </defs>
+  <rect x="1" y="1" width="1278" height="798" rx="28" fill="url(#bg)" stroke="#28414d" stroke-width="2"/>
+  <rect x="2" y="2" width="1276" height="796" rx="27" fill="url(#dots)"/>
+  <ellipse cx="750" cy="530" rx="590" ry="310" fill="url(#aura)"/>
+  <path d="M56 55h28m-14-14v28" stroke="#7de7c3" stroke-width="2"/>
+  <text x="101" y="63" fill="#edf7f7" font-size="25" font-weight="600" letter-spacing="1">BEHNAM MOHSENI</text>
+  <rect x="971" y="39" width="253" height="37" rx="18.5" fill="#142a32" stroke="#30534f"/>
+  <circle cx="994" cy="57.5" r="4" fill="#8cf0c8" class="pulse"/>
+  <text x="1010" y="63" fill="#b3d3ce" font-size="13" class="mono" letter-spacing="1.4">ENERGY SYSTEMS / CODE</text>
+  <text x="56" y="151" fill="#f2f8fb" font-size="65" font-weight="650" letter-spacing="-2">Smarter energy.</text>
+  <text x="56" y="227" fill="url(#mint)" font-size="65" font-weight="650" letter-spacing="-2">More flexible grids.</text>
+  <text x="59" y="273" fill="#a8bdc8" font-size="22">Connecting buildings, mobility, and intelligent control.</text>
+
+  <!-- A quiet engineering grid under the connected system. -->
+  <g stroke="#3b7376" stroke-opacity=".14" stroke-width="1">
+    <path d="m70 588 532-220 602 220-536 117Z"/>
+    <path d="m132 602 531-209m-423 234 530-208M354 652l532-207M469 676l532-206M584 699l531-204"/>
+    <path d="m177 544 605 137M284 500l605 157M391 456l605 176M496 412l605 195"/>
+  </g>
+  <!-- Power exchange is animated using SVG CSS, with a static fallback. -->
+  <path d="M261 571v46q0 16 16 16h244q16 0 16-16v-33M674 582v35q0 16 16 16h306q16 0 16-16v-12" stroke="#21574f" stroke-width="7"/>
+  <path d="M261 571v46q0 16 16 16h244q16 0 16-16v-33M674 582v35q0 16 16 16h306q16 0 16-16v-12" stroke="#7fe8bd" stroke-width="2.5" class="flow"/>
+  <path d="M1015 432v26q0 14-14 14H765q-14 0-14 14v34M941 433v25M920 473H367q-14 0-14 14v51" stroke="#f1b87e" stroke-opacity=".65" stroke-width="1.5" class="signal"/>
+  <circle cx="537" cy="633" r="5" fill="#9ff5cf"/><circle cx="996" cy="633" r="5" fill="#9ff5cf"/>
+
+  <!-- Electricity pylon. -->
+  <ellipse cx="248" cy="584" rx="120" ry="24" fill="#050d18" opacity=".55"/>
+  <g stroke="#8aaeb9" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m190 580 58-253 58 253M238 371h20M225 422h46M213 475h70M201 528h94M190 580h116"/>
+    <path d="m238 371 33 51m-13-51-33 51m0 0 58 53m-12-53-58 53m0 0 82 53m-12-53-82 53m0 0 105 52m-11-52-105 52" stroke="#61838f" stroke-width="2"/>
+    <path d="m248 327-29 52h58l-29-52Zm-28 52-73 14 16 14h170l16-14-73-14M221 423l-95 17 17 15h210l17-15-96-17" fill="#122936"/>
+  </g>
+  <g stroke="#73e5cd" stroke-width="3"><path d="M154 406v18m20-18v18m148-18v18m20-18v18M135 456v18m20-18v18m188-18v18m20-18v18"/></g>
+  <g stroke="#5c8592" stroke-width="1.4" opacity=".7"><path d="M154 423Q88 454 40 421M342 423q63 31 130 0M135 474Q78 506 36 478M363 474q65 29 119-6"/></g>
+  <rect x="168" y="596" width="160" height="31" rx="15.5" fill="#102a33" stroke="#2b4b57"/>
+  <text x="248" y="617" fill="#cadfe6" font-size="14" class="mono" text-anchor="middle" letter-spacing="1.2">POWER GRID</text>
+
+  <!-- Solar home, with distinct roof, windows and battery. -->
+  <ellipse cx="613" cy="591" rx="157" ry="27" fill="#050e17" opacity=".55"/>
+  <path d="m500 482 113-83 113 83v101H500Z" fill="url(#wall)" stroke="#71a5a4" stroke-width="2"/>
+  <path d="m613 399 113 83 39-28-114-81Z" fill="#112e36" stroke="#457376" stroke-width="2"/>
+  <path d="M726 482v101l39-28V454Z" fill="#10242f" stroke="#457376" stroke-width="2"/>
+  <path d="m485 485 128-94 123 91" stroke="#a2e6d1" stroke-width="5" stroke-linecap="round"/>
+  <path d="m635 397 93 66 19-15-92-64Z" fill="url(#roof)" stroke="#5abbaa" stroke-width="1.5"/>
+  <g stroke="#59a999" stroke-width="1"><path d="m658 413 19-14m2 29 19-14m2 29 19-14m-7 38 19-15m-87-47 92 65"/></g>
+  <rect x="525" y="495" width="44" height="42" rx="3" fill="#f0cf8e" fill-opacity=".88" stroke="#e2e9c1"/>
+  <path d="M547 495v42m-22-21h44" stroke="#35646b" stroke-width="3"/>
+  <rect x="654" y="495" width="44" height="42" rx="3" fill="#f0cf8e" fill-opacity=".88" stroke="#e2e9c1"/>
+  <path d="M676 495v42m-22-21h44" stroke="#35646b" stroke-width="3"/>
+  <path d="M593 583v-67a5 5 0 0 1 5-5h25a5 5 0 0 1 5 5v67" fill="#102932" stroke="#79a9aa" stroke-width="2"/>
+  <circle cx="618" cy="551" r="2.5" fill="#95e3ca"/>
+  <rect x="745" y="523" width="35" height="57" rx="6" fill="#193c42" stroke="#7bd8bb" stroke-width="2"/>
+  <path d="m765 536-10 16h9l-6 16 14-20h-10Z" fill="#92efc5"/>
+  <rect x="521" y="596" width="185" height="31" rx="15.5" fill="#102a33" stroke="#2b4b57"/>
+  <text x="613" y="617" fill="#cadfe6" font-size="14" class="mono" text-anchor="middle" letter-spacing="1.2">FLEXIBLE HOME</text>
+
+  <!-- Electric vehicle and charging connection. -->
+  <ellipse cx="1025" cy="599" rx="145" ry="22" fill="#050d18" opacity=".6"/>
+  <path d="M902 553l22-14 24-37q5-7 16-7h77q11 0 20 8l37 35 29 10q12 5 12 18v16H896v-15q0-9 6-14Z" fill="url(#car)" stroke="#89cde1" stroke-width="2.5"/>
+  <path d="m944 535 17-27h34v27Zm60-27h33l29 27h-62Z" fill="#0a2333" stroke="#80bbd1" stroke-width="1.6"/>
+  <path d="M999 539v34m17-28h13M904 558h15m193-1h18" stroke="#b1e9f5" stroke-width="3" stroke-linecap="round"/>
+  <path d="M914 577h211" stroke="#6599ad" stroke-width="2"/>
+  <g fill="#0a1521" stroke="#7eabbc" stroke-width="3"><circle cx="942" cy="582" r="20"/><circle cx="1090" cy="582" r="20"/></g>
+  <g fill="#8ec8d9"><circle cx="942" cy="582" r="7"/><circle cx="1090" cy="582" r="7"/></g>
+  <rect x="852" y="506" width="29" height="73" rx="7" fill="#173b42" stroke="#70dcb9" stroke-width="2"/>
+  <path d="M881 527q16 0 16 16v10q0 9 13 9" stroke="#80e9c3" stroke-width="3"/>
+  <path d="m867 517-7 13h6l-4 12 12-17h-7Z" fill="#a0f4cf"/>
+  <rect x="930" y="614" width="183" height="31" rx="15.5" fill="#102a33" stroke="#2b4b57"/>
+  <text x="1022" y="635" fill="#cadfe6" font-size="14" class="mono" text-anchor="middle" letter-spacing="1.2">ELECTRIC MOBILITY</text>
+
+  <!-- Predictive control: an illustrative chart, not live telemetry. -->
+  <rect x="885" y="230" width="332" height="204" rx="17" fill="#06111c" opacity=".3" transform="translate(0 8)"/>
+  <rect x="885" y="230" width="332" height="204" rx="17" fill="#10232e" stroke="#496365" stroke-width="1.5"/>
+  <path d="M885 273h332" stroke="#2b414a"/>
+  <circle cx="907" cy="252" r="4" fill="#edbf88"/>
+  <text x="922" y="258" fill="#efc69a" font-size="14" class="mono" letter-spacing="1.4">PREDICTIVE CONTROL</text>
+  <g stroke="#2b424b" stroke-width="1"><path d="M910 300h153m-153 29h153m-153 29h153M924 288v85m47-85v85m47-85v85m47-85v85"/></g>
+  <path d="M911 343l20-16 19 20 22-42 23 4 21 34 22-18 28 8" stroke="#6b8e9d" stroke-width="2" stroke-dasharray="4 4"/>
+  <path d="M911 345h20v-10h19v-13h22v-6h23v9h21v5h22v-3h28" stroke="#8de9c5" stroke-width="3" stroke-linejoin="round"/>
+  <circle cx="1038" cy="327" r="4" fill="#a8f5d4" class="pulse"/>
+  <g stroke="#50666e" stroke-width="3" stroke-linecap="round"><path d="M1090 305h98m-98 26h98m-98 26h98"/></g>
+  <g fill="#10232e" stroke="#eac092" stroke-width="2"><circle cx="1122" cy="305" r="6"/><circle cx="1159" cy="331" r="6"/><circle cx="1137" cy="357" r="6"/></g>
+  <circle cx="913" cy="402" r="3" fill="#8de9c5"/><text x="925" y="407" font-size="12" fill="#a5c6c4" class="mono">OPTIMIZE</text>
+  <path d="M1006 402h22m-5-4 5 4-5 4" stroke="#6f8c92"/><text x="1044" y="407" font-size="12" fill="#d5b795" class="mono">COORDINATE</text>
+
+  <path d="M56 700h1168" stroke="#29424c"/>
+  <g font-size="18" fill="#ccdde3">
+    <circle cx="64" cy="742" r="5" fill="#98efc6"/><text x="82" y="748">Energy management</text>
+    <circle cx="426" cy="742" r="5" fill="#73d9db"/><text x="444" y="748">Energy flexibility</text>
+    <circle cx="774" cy="742" r="5" fill="#efbe8c"/><text x="792" y="748">Power grids &amp; control</text>
+  </g>
+  <path d="m1180 735 14 7-14 7m22-14 14 7-14 7" stroke="#80c6bc" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

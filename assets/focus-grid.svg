@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="244" viewBox="0 0 400 244" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">Power grids &amp; control</title><desc id="desc">Grid-aware operation and model predictive control.</desc>
+<rect x="1" y="1" width="398" height="242" rx="18" fill="#10202c" stroke="#304754" stroke-width="2"/>
+<path d="M26 1h78" stroke="#f0bf8d" stroke-width="2"/>
+<g transform="translate(25 25)" stroke="#f0bf8d" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M13 54 30 8l17 46M22 29h16M17 42h26M23 29l20 13m-6-13L17 42M12 22h36M7 33h46M13 22v5m34-5v5M8 33v5m44-5v5"/></g>
+<text x="349" y="56" fill="#a0b6c2" font-family="Consolas, monospace" font-size="17">03</text>
+<text x="27" y="126" fill="#edf7fb" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="26" font-weight="600" letter-spacing="-.5">Power grids &amp; control</text>
+<text x="27" y="168" fill="#b7cbd5" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="19">Grid-aware operation and</text>
+<text x="27" y="197" fill="#b7cbd5" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="19">model predictive control.</text>
+</svg>

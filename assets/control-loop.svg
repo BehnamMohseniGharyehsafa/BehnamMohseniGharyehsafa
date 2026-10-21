@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="138" viewBox="0 0 1280 138" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">From data to decisions</title><desc id="desc">Observe the system, forecast demand, optimize operation, apply control, and feed the results back.</desc>
+<rect x="1" y="1" width="1278" height="136" rx="16" fill="#10202c" stroke="#304754" stroke-width="2"/>
+<g font-family="Consolas, monospace" font-size="21" letter-spacing="1">
+<text x="49" y="62" fill="#9beacb">01 / OBSERVE</text><text x="371" y="62" fill="#8edee6">02 / FORECAST</text><text x="700" y="62" fill="#b8d9fb">03 / OPTIMIZE</text><text x="1022" y="62" fill="#edc295">04 / CONTROL</text>
+</g><g stroke="#68858d" stroke-width="2"><path d="M268 54h53m-8-7 8 7-8 7M599 54h53m-8-7 8 7-8 7M920 54h53m-8-7 8 7-8 7M1194 81v24H76V81m-6 7 6-7 6 7"/></g>
+<rect x="536" y="92" width="201" height="26" rx="13" fill="#10202c"/>
+<text x="638" y="110" text-anchor="middle" fill="#a7bdc9" font-family="Consolas, monospace" font-size="13" letter-spacing="1">CONTINUOUS FEEDBACK</text>
+</svg>
