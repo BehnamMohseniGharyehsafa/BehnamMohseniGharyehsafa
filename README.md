@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/energy-hero.svg" width="100%" alt="Behnam Mohseni — Smarter energy. More flexible grids. An electricity pylon, solar home, electric vehicle, and predictive controller connected as one energy system." />
+  <img src="./assets/energy-hero.svg" width="100%" alt="Behnam Mohseni: Smarter energy. More flexible grids. An electricity pylon, solar home, electric vehicle, and predictive controller connected as one energy system." />
 </p>
 
 <h2 align="center">Energy systems. Intelligent decisions.</h2>
@@ -20,9 +20,9 @@
 ## Focus areas
 
 <p align="center">
-  <img src="./assets/focus-management.svg" width="250" alt="Energy management — Buildings, communities, and coordinated energy use." />
-  <img src="./assets/focus-flexibility.svg" width="250" alt="Energy flexibility — Demand response, flexible loads, and smarter energy scheduling." />
-  <img src="./assets/focus-grid.svg" width="250" alt="Power grids and control — Grid-aware operation and model predictive control." />
+  <img src="./assets/focus-management.svg" width="250" alt="Energy management: Buildings, communities, and coordinated energy use." />
+  <img src="./assets/focus-flexibility.svg" width="250" alt="Energy flexibility: Demand response, flexible loads, and smarter energy scheduling." />
+  <img src="./assets/focus-grid.svg" width="250" alt="Power grids and control: Grid-aware operation and model predictive control." />
 </p>
 
 <br />
@@ -40,8 +40,8 @@
 
 Turning energy data into coordinated decisions, from individual buildings to connected communities.
 
-- **Economic model predictive control** — harnessing energy flexibility at community scale. [Repository in development ↗](https://github.com/BehnamMohseniGharyehsafa/Economic-Model-Predictive-Control-in-Harnessing-Energy-Flexibility-at-Community-Scale)
-- **Flexibility-aware techno-economic analysis** — exploring the relationship between flexible operation and energy-system economics. [Repository in development ↗](https://github.com/BehnamMohseniGharyehsafa/Flexibility-Aware-Techno-Economic-Analysis)
+- **Economic model predictive control**: harnessing energy flexibility at community scale. [Repository in development ↗](https://github.com/BehnamMohseniGharyehsafa/Economic-Model-Predictive-Control-in-Harnessing-Energy-Flexibility-at-Community-Scale)
+- **Flexibility-aware techno-economic analysis**: exploring the relationship between flexible operation and energy-system economics. [Repository in development ↗](https://github.com/BehnamMohseniGharyehsafa/Flexibility-Aware-Techno-Economic-Analysis)
 
 <p align="center">
   <img src="./assets/control-loop.svg" width="100%" alt="Observe → Forecast → Optimize → Control, with continuous feedback." />
