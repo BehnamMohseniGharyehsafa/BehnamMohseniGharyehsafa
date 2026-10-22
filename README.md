@@ -10,6 +10,11 @@
 </p>
 
 <p align="center">
+  <a href="https://scholar.google.com/citations?user=Wk90790AAAAJ&amp;hl=en"><img src="./assets/social-scholar.svg" width="300" alt="Google Scholar: publications and research" /></a>
+  <a href="https://www.linkedin.com/in/behnam-mohseni-gharyehsafa-507442261/"><img src="./assets/social-linkedin.svg" width="300" alt="LinkedIn: professional network" /></a>
+</p>
+
+<p align="center">
   <a href="#focus-areas">Focus areas</a> &nbsp; · &nbsp;
   <a href="#selected-work">Selected work</a> &nbsp; · &nbsp;
   <a href="#research-directions">Research directions</a>
