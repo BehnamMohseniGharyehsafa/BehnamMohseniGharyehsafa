@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://scholar.google.com/citations?user=Wk90790AAAAJ&amp;hl=en"><img src="./assets/social-scholar.svg" width="300" alt="Google Scholar: publications and research" /></a>
+  <a href="https://scholar.google.com/citations?hl=en&amp;user=Wk90790AAAAJ&amp;view_op=list_works&amp;authuser=1&amp;sortby=pubdate"><img src="./assets/social-scholar.svg" width="300" alt="Google Scholar: publications and research" /></a>
   <a href="https://www.linkedin.com/in/behnam-mohseni-gharyehsafa-507442261/"><img src="./assets/social-linkedin.svg" width="300" alt="LinkedIn: professional network" /></a>
 </p>
 
