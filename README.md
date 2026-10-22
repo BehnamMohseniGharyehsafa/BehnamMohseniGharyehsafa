@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/energy-hero.svg" width="100%" alt="Behnam Mohseni: Smarter energy. More flexible grids. An electricity pylon, solar home, electric vehicle, and predictive controller connected as one energy system." />
+  <picture><img src="./assets/energy-hero.svg" width="100%" alt="Behnam Mohseni: Smarter energy. More flexible grids. An electricity pylon, solar home, electric vehicle, and predictive controller connected as one energy system." /></picture>
 </p>
 
 <h2 align="center">Energy systems. Intelligent decisions.</h2>
@@ -25,9 +25,9 @@
 ## Focus areas
 
 <p align="center">
-  <img src="./assets/focus-management.svg" width="250" alt="Energy management: Buildings, communities, and coordinated energy use." />
-  <img src="./assets/focus-flexibility.svg" width="250" alt="Energy flexibility: Demand response, flexible loads, and smarter energy scheduling." />
-  <img src="./assets/focus-grid.svg" width="250" alt="Power grids and control: Grid-aware operation and model predictive control." />
+  <picture><img src="./assets/focus-management.svg" width="250" alt="Energy management: Buildings, communities, and coordinated energy use." /></picture>
+  <picture><img src="./assets/focus-flexibility.svg" width="250" alt="Energy flexibility: Demand response, flexible loads, and smarter energy scheduling." /></picture>
+  <picture><img src="./assets/focus-grid.svg" width="250" alt="Power grids and control: Grid-aware operation and model predictive control." /></picture>
 </p>
 
 <br />
@@ -49,7 +49,7 @@ Turning energy data into coordinated decisions, from individual buildings to con
 - **Flexibility-aware techno-economic analysis**: exploring the relationship between flexible operation and energy-system economics. [Repository in development ↗](https://github.com/BehnamMohseniGharyehsafa/Flexibility-Aware-Techno-Economic-Analysis)
 
 <p align="center">
-  <img src="./assets/control-loop.svg" width="100%" alt="Observe → Forecast → Optimize → Control, with continuous feedback." />
+  <picture><img src="./assets/control-loop.svg" width="100%" alt="Observe → Forecast → Optimize → Control, with continuous feedback." /></picture>
 </p>
 
 <br />
