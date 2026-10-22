@@ -37,8 +37,10 @@
 
 | Project | What you'll find |
 | :--- | :--- |
-| **[Energy Management · Python](https://github.com/BehnamMohseniGharyehsafa/Energy_Management_Python)** | Python code and notebooks for exploring energy management. |
-| **[Building Community Energy Flows](https://github.com/BehnamMohseniGharyehsafa/buildingCommunityEnergyFlowSimulation)** | Community-scale energy simulation, building models, and workflows connecting OpenStreetMap, Dragonfly, and URBANopt. |
+| **[GridOpt Lab](https://github.com/BehnamMohseniGharyehsafa/gridopt-lab)** | Power system optimization with economic dispatch, unit commitment, DC optimal power flow, and expansion planning. |
+| **[Electricity Market Modeling and Analysis](https://github.com/BehnamMohseniGharyehsafa/electricity-market-modeling-and-analysis)** | Electricity price forecasting with NYISO data, machine learning, transformer models, and uncertainty calibration. |
+| **[Verdant Home Energy](https://github.com/BehnamMohseniGharyehsafa/verdant-home-energy)** | Smart home energy dashboard with a 3D house, device controls, solar, battery, and simulated energy analytics. |
+| **[OU + XGBoost Energy](https://github.com/BehnamMohseniGharyehsafa/ou-xgboost-energy)** | Next-day electricity price forecasting combining Ornstein-Uhlenbeck dynamics, XGBoost, and reproducible backtests. |
 
 <br />
 
