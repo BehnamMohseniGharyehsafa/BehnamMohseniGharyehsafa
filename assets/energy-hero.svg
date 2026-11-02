@@ -42,7 +42,7 @@
   <!-- Power exchange is animated using SVG CSS, with a static fallback. -->
   <path d="M261 571v46q0 16 16 16h244q16 0 16-16v-33M674 582v35q0 16 16 16h306q16 0 16-16v-12" stroke="#21574f" stroke-width="7"/>
   <path d="M261 571v46q0 16 16 16h244q16 0 16-16v-33M674 582v35q0 16 16 16h306q16 0 16-16v-12" stroke="#7fe8bd" stroke-width="2.5" class="flow"/>
-  <path d="M1015 432v26q0 14-14 14H765q-14 0-14 14v34M941 433v25M920 473H367q-14 0-14 14v51" stroke="#f1b87e" stroke-opacity=".65" stroke-width="1.5" class="signal"/>
+  <path d="M1015 432v26q0 14-14 14H765q-14 0-14 14v34M920 473H367" stroke="#f1b87e" stroke-opacity=".65" stroke-width="1.5" class="signal"/>
   <circle cx="537" cy="633" r="5" fill="#9ff5cf"/><circle cx="996" cy="633" r="5" fill="#9ff5cf"/>
 
   <!-- Electricity pylon. -->
